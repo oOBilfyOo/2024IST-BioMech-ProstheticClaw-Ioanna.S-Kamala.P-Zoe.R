@@ -10,5 +10,5 @@ To prevent the prosthetic from accidentally picking up something which is not a 
 If this product was further developed, we would maybe add more servo motors to make it so the claw would spin around. This could be controlled by some sort of joystick, or a device in the brain of sorts, which would let David control it automatically. We would also probably improve the design of it to something cool, maybe with a sort of chess themed design. Along with this, we would change the claw to be made out of metal, with rubber grips on the end of each claw in order to make it easier to grip the chess pieces.  
 =======
 Members: Ioanna, Kamala, Zoe
->>>>>>> 86c11b70e215a77dfd74af3c61594a75177ad093
+
 
