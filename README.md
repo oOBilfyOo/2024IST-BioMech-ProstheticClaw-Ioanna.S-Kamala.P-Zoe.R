@@ -1,5 +1,5 @@
 # ProstheticClaw   
-
+<<<<<<< HEAD
 
 ##PROJECT OVRVIEW 
 
@@ -10,11 +10,25 @@ The solution that we are going to design is a mechanical claw, which will be pre
 To prevent the prosthetic from accidentally picking up something which is not a chess piece, either a line finder or a colour sensor will be added to the claw to make sure the only things that it grabs are chess pieces. These will all combine to make a prosthetic claw which can accurately pick up chess pieces in order for David to be able to compete in chess competitions all over the world with less struggle. 
 
 If this product was further developed, we would maybe add more servo motors to make it so the claw would spin around. This could be controlled by some sort of joystick, or a device in the brain of sorts, which would let David control it automatically. We would also probably improve the design of it to something cool, maybe with a sort of chess themed design. Along with this, we would change the claw to be made out of metal, with rubber grips on the end of each claw in order to make it easier to grip the chess pieces.  
+=======
+
+
+
 
 ##
 ![the pictorial for our project](https://github.com/TempeHS/2024IST-BioMech-ProstheticClaw-Ioanna.S-Kamala.P-Zoe.R/blob/.workingdocuments/pictorial.png?raw=true)
 
+<<<<<<< Updated upstream
 ##MEMBERS 
 Ioanna: Set up ultrasonic sensor 
 Kamala: Set up button 
 Zoe: Make the actual claw 
+=======
+
+
+Members: 
+Ioanna: 
+Kamala: 
+Zoe: 
+
+>>>>>>> Stashed changes
