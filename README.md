@@ -15,7 +15,8 @@ If this product was further developed, we would maybe add more servo motors to m
 
 
 ![pictorial lol] (https://github.com/TempeHS/2024IST-BioMech-ProstheticClaw-Ioanna.S-Kamala.P-Zoe.R/blob/main/.workingdocuments/pictorial.png)
-Members: 
-Ioanna: 
-Kamala: 
-Zoe: 
+
+MEMBERS 
+Ioanna: Set up ultrasonic sensor 
+Kamala: Set up button 
+Zoe: Make the actual claw 
