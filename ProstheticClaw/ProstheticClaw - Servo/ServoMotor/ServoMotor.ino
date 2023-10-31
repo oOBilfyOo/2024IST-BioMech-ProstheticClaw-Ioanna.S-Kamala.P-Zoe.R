@@ -9,14 +9,14 @@
  Source: https://wiki.seeedstudio.com/Grove-Button/
 */
 
-static unsigned int myButton = 3;
+static unsigned int = 3;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(myButton, INPUT);
+  pinMode(, INPUT);
 }
 
 void loop() {
-  Serial.print("myButton:");
-  Serial.println(digitalRead(myButton));
+  Serial.print(":");
+  Serial.println(digitalRead());
 }
