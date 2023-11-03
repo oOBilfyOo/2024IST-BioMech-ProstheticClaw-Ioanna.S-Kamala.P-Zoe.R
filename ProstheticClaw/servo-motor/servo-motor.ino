@@ -1,14 +1,12 @@
 /*
-  Purpose: Basic example of the momentary button switch input module
+  Purpose: Basic example of a 180deg Micro Servo connected via a Seead Screw Terminal
   Notes: 
-    1. Connect to a Digital pin
-    2. Normally open momentary switch
-    3. Wired for pull up only 
+    1. Connect to a Digital Pin
+    2. 180 Degree ROM 0-180 values
   Author: Ioanna, Kamala, Zoe
-  Contact: Ioanna.sotiropoulou@education.nsw.gov.au, Kamala.pradhan@education.nsw.gov.au, Zoe.rath@education.nsw.gov.au 
- Source: https://wiki.seeedstudio.com/Grove-Button/
+  Contact: Ioanna.sotiropoulou@education.nsw.gov.au, Kamala.pradhan@education.nsw.gov.au, Zoe.rath@education.nsw.gov.au
+  Source: https://wiki.seeedstudio.com/Grove-Servo/
 */
-
 
 #include <Servo.h>
 
