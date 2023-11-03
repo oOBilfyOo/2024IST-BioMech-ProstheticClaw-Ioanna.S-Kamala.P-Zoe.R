@@ -13,7 +13,10 @@ If this product was further developed, we would maybe add more servo motors to m
 =======
 
 
-
+Members: 
+Ioanna: 
+Kamala: 
+Zoe: 
 
 ##
 ![the pictorial for our project](https://github.com/TempeHS/2024IST-BioMech-ProstheticClaw-Ioanna.S-Kamala.P-Zoe.R/blob/.workingdocuments/pictorial.png?raw=true)
@@ -25,10 +28,7 @@ Kamala: Set up button
 Zoe: Make the actual claw 
 =======
 
-
-Members: 
-Ioanna: 
-Kamala: 
-Zoe: 
+Notes for 3/11/2023
+added all servos and motors
 
 >>>>>>> Stashed changes
