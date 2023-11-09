@@ -3,8 +3,8 @@
   Notes: 
     1. Connect to a Digital Pin
     2. 180 Degree ROM 0-180 values
-  Author: Ioanna, Kamala, Zoe
-  Contact: Ioanna.sotiropoulou@education.nsw.gov.au, Kamala.pradhan@education.nsw.gov.au, Zoe.rath@education.nsw.gov.au
+  Author: Ben Jones 13/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-Servo/
 */
 
