@@ -40,14 +40,12 @@ Serial.println ("---------------");
 
 // The loop function runs over and over again forever
 void loop() {
-<<<<<<< HEAD
 
 if (readUS()<= 25) {
   openGate ();
 } else if (readUS() > 25) {
   closeGate ();
 }
-=======
   
   unsigned long rangeInCM = myUSsensor.MeasureInCentimeters();
   Serial.println(rangeInCM);
@@ -59,6 +57,5 @@ if (readUS()<= 25) {
   } else {
     myServo.write(0);
   }
->>>>>>> 548a9a6736fc4c850e9fe122f15bc90cb78a48bb
 
 }
