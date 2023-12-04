@@ -1,11 +1,12 @@
 /*
-  Purpose: Basic example of reading binary data from the Seead Line Finder sensor module
+  Purpose: Basic example of the momentary button switch input module
   Notes: 
-    1. Connect to a digital pin
-    2. High when black is detected, Low when white is detected
-  Author: Ben Jones 13/7/23
-  Contact: benjmain.jones21@det.nsw.edu.au
-  Source: https://wiki.seeedstudio.com/Grove-Line_Finder/
+    1. Connect to a Digital pin
+    2. Normally open momentary switch
+    3. Wired for pull up only 
+  Author: Ioanna, Kamala, Zoe
+  Contact: Ioanna.sotiropoulou@education.nsw.gov.au, Kamala.pradhan@education.nsw.gov.au, Zoe.rath@education.nsw.gov.au 
+ Source: https://wiki.seeedstudio.com/Grove-Button/
 */
 
 static unsigned int lineFollower = 3;
