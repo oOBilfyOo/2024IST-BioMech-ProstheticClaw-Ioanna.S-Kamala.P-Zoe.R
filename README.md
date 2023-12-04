@@ -23,9 +23,9 @@ Zoe:
 
 <<<<<<< Updated upstream
 ##MEMBERS 
-Ioanna: Set up ultrasonic sensor 
-Kamala: Set up button 
-Zoe: Make the actual claw 
+Ioanna: Button and line finder
+Kamala: Servo motor
+Zoe: ultrasonic, ultrasensor 
 =======
 
 Notes for 3/11/2023
