@@ -3,17 +3,17 @@
 #include <Servo.h> 
 #include "Ultrasonic.h"
 
-Servo myServo;
-static unsigned int myServoPin = 7;
-static unsigned int myUSPin = 6;
+Servo myServoTwo;
+static unsigned int myServoPintwo = 8;
+static unsigned int myUSPintwo = 9;
 
-Ultrasonic myUSsensor(myUSPin);
-bool isGateOpen;
+Ultrasonic myUSsensortwo(myUSPintwo);
+bool isGateOpentwo;
 
-void ServoMotorPartTwo() {
+void servonumbertwo() {
 myServo.attach (myServoPin);
 myServo.write(0);
-isGateOpen = false;
+isGateOpentwo = false;
 delay(100);
 Serial.begin(9600);
 Serial.println ("debugging");
@@ -21,7 +21,7 @@ Serial.println ("---------------");
 }
 
 // The loop function runs over and over again forever
-void loop() {
+void runservotwo() {
 
 
 

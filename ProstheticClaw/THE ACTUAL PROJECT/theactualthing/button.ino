@@ -7,7 +7,7 @@ void button() {
   pinMode(myButton, INPUT);
 }
 
-void PushButton() {
+void pushbutton() {
   Serial.print("myButton:");
   Serial.println(digitalRead(myButton));
 }

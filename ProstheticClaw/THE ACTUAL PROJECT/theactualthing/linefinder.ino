@@ -1,12 +1,12 @@
 
 static unsigned int lineFollower = 3;
 
-void LineFinder() {
+void linefinder() {
   Serial.begin(9600);
   pinMode(lineFollower, INPUT);
 }
 
-void loop() {
+void runlinefinder() {
   Serial.print("lineFollower:");
   Serial.println(digitalRead(lineFollower));
 }

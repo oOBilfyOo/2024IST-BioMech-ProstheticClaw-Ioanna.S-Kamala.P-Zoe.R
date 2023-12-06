@@ -10,7 +10,7 @@ static unsigned int myUSPin = 6;
 Ultrasonic myUSsensor(myUSPin);
 bool isGateOpen;
 
-void ServoNumberone() {
+void servonumberone() {
 myServo.attach (myServoPin);
 myServo.write(0);
 isGateOpen = false;
@@ -21,7 +21,7 @@ Serial.println ("---------------");
 }
 
 // The loop function runs over and over again forever
-void loop() {
+void runservoone() {
 
 
 
@@ -31,7 +31,7 @@ Serial.println ("readUS");
   Serial.println(rangeInCM);
 
   if (rangeInCM <= 10) {
-    myServo.write(180);
+    myServo.write(-180);
   } else if (rangeInCM <= 20) {
     myServo.write(90);
   } else {
