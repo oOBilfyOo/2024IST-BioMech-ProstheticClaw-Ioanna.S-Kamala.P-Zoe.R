@@ -1,5 +1,5 @@
-# ProstheticClaw   
-<<<<<<< HEAD
+# ProstheticClaw  
+![the pictorial for our project](https://github.com/TempeHS/2024IST-BioMech-ProstheticClaw-Ioanna.S-Kamala.P-Zoe.R/blob/main/.workingdocuments/pictorial.png)
 
 ##PROJECT OVRVIEW 
 
@@ -19,7 +19,6 @@ Kamala:
 Zoe: 
 
 ##
-![the pictorial for our project](https://github.com/TempeHS/2024IST-BioMech-ProstheticClaw-Ioanna.S-Kamala.P-Zoe.R/blob/.workingdocuments/pictorial.png?raw=true)
 
 <<<<<<< Updated upstream
 ##MEMBERS 
